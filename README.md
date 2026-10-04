@@ -653,3 +653,9 @@ See [LICENSE](LICENSE) for the full license text.
 📧 Email: [francesco.pace@gmail.com](mailto:francesco.pace@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/francescopace](https://www.linkedin.com/in/francescopace/)  
 🛜 Project: [ESPectre](https://github.com/francescopace/espectre)
+
+## Fork author and maintainer
+
+[rajivranjanmars](https://rajivranjana.in)
+
+This fork preserves the original project authorship, licenses, and upstream acknowledgments.
