@@ -656,6 +656,6 @@ See [LICENSE](LICENSE) for the full license text.
 
 ## Fork author and maintainer
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
 
 This fork preserves the original project authorship, licenses, and upstream acknowledgments.
